@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewRoomTest</string>
+    <string name="dest_main_fragment_label">Main Fragment</string>
+</resources>
